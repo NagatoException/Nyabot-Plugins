@@ -6,6 +6,7 @@ some useful lua plugins for Elyart-Network/NyaBot
 ## 插件列表
 1.MessageFilter
 - 用于过滤消息，可以过滤敏感词，防止群内有部分炸弹人
+
 2.Renamer
 - 将所有群员改名为类似于Discord的<名称>#<序号>的格式
 
